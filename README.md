@@ -1,4 +1,4 @@
-# json_handling
+## json_handling
 Operations on json using python
 
 
@@ -16,3 +16,4 @@ code2.py
 It consist of the code which takes input of a json file as a python sting.
 Used json.loads()
 
+code.py vs code2.py demonstarate the difference between json.load(), json.loads().
